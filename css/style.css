@@ -1,0 +1,43 @@
+html, body
+{
+    height: 100%;
+}
+body
+{
+    padding: 0px;
+    margin: 0px;
+    background: url("../assets/Food.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    text-align: center;
+    
+}
+
+header img
+{
+    width: 200px;
+    height: 200px;
+}
+
+.Three img
+{
+    width: 800px;
+    height: 400px;
+    margin: 20px;
+    border-radius: 10%;
+}
+
+.Two img
+{
+    width: 350px;
+    height: 350px;
+    margin: 20px;
+    border-radius: 10%;
+}
+
+footer
+{
+    background: rgba(0, 0, 0, 0.5);
+    margin: 20px;
+    border-radius: 10%;
+}
